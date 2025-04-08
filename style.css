@@ -94,3 +94,7 @@ body{
 .active .items-wrapper .menu-item:nth-child(4){
     transform: translate3d(-7em,1em,0);
 }
+
+.nima{
+    display:flex
+}
